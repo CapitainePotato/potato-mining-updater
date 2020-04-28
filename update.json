@@ -1,0 +1,12 @@
+{
+  //URL to display in ModList GUI when an update is avalible
+  "homepage": "",
+  "promos": {
+    "1.15.2-latest"     : "31.1.63",
+    "1.15.2-recomended" : "31.1.0"
+  },
+  "1.15.2" : {
+    // The changelog will be a ordered list of all entries in this this whos key is >= CURRENT_VERSION && <= TARGET version
+    "1.0" : "First Version (v1.0) for MC 1.15.2 of my mod!\nNew Blocks, Items and more!",
+  }
+}
